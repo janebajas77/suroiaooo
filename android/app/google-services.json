@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883051571925",
+    "project_id": "surioao",
+    "storage_bucket": "surioao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883051571925:android:fba3b93404a344f875505c",
+        "android_client_info": {
+          "package_name": "com.suroiao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqbTQKpWQOVYVhwQShiy-0jdQC_kd1jD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
